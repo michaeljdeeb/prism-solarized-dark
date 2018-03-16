@@ -1,0 +1,21 @@
+{
+  "name": "prism-solarized-dark",
+  "version": "1.0.0",
+  "description": "Solarized Dark theme for Prism",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljdeeb/prism-solarized-dark.git"
+  },
+  "keywords": [
+    "prism",
+    "prismjs",
+    "solarized",
+    "theme"
+  ],
+  "author": "Michael Deeb <npm@michaeljdeeb.com> (https://michaeljdeeb.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaeljdeeb/prism-solarized-dark/issues"
+  },
+  "homepage": "https://github.com/michaeljdeeb/prism-solarized-dark#readme"
+}
